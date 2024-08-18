@@ -1,6 +1,12 @@
-git init - untuk menginisiasi folder git
-git clone - untuk mengkloning mengambil project git
-git status - cek status git
-git add - untuk menyimpan perubahan
-git add . - untuk menyimpan semua perubahan sekaligus
-git reset - untuk reset perubahan file
+git init : untuk menginisiasi folder git
+git clone : untuk mengkloning mengambil project git
+git status : cek status git
+git add  :untuk menyimpan perubahan
+git add . : untuk menyimpan semua perubahan sekaligus
+git reset : untuk reset perubahan file
+
+// semua file yang di add akan masuk ke dalam konfigurasi git dan ketika direset file yang direset adalah file konfigurasi git bukan file pada folder//
+
+git commit -m "pesan" : untuk melakukan commit
+git log : untuk melihat riwayat log
+git diff : untuk melihat perubahan text yang diganti
