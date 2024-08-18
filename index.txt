@@ -10,3 +10,11 @@ git reset : untuk reset perubahan file
 git commit -m "pesan" : untuk melakukan commit
 git log : untuk melihat riwayat log
 git diff : untuk melihat perubahan text yang diganti
+
+Sync Singkronisasi Lokal dan Server Online
+git remote add origin : untuk meremote repositori server
+git push : untuk menambahkan file di server dari lokal
+git pull : mengambil file di server
+git fetch : mengambil data dari server tanpa menganggu perubahan dilokal
+git branch adalah untuk menambah sebuah fitur tertentu yang akan di develop dan kemudian diambil ke local dengan perintah fetch
+git checkout : digunakan untuk berpindah branch
