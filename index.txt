@@ -1,0 +1,6 @@
+git init - untuk menginisiasi folder git
+git clone - untuk mengkloning mengambil project git
+git status - cek status git
+git add - untuk menyimpan perubahan
+git add . - untuk menyimpan semua perubahan sekaligus
+git reset - untuk reset perubahan file
